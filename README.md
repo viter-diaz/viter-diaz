@@ -1,16 +1,116 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**viter-diaz/viter-diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Viterbo Alejandro Diaz
 
-Here are some ideas to get you started:
+### Software Developer • Industrial Automation • Industry 4.0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building industrial solutions with C#, Java, IoT and Embedded Systems.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=C%23+Developer;Industrial+Automation+Engineer;Java+and+Spring+Boot+Developer;ESP32+%7C+MQTT+%7C+OPC+UA;Industry+4.0+Enthusiast;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+* 🏭 Passionate about Industrial Automation and Industry 4.0
+* 💻 Software Developer
+* 📚 Analysis and Systems Development Student
+* ⚡ Experience with C#, Java, Spring Boot and Embedded Systems
+* 📡 IoT Developer using ESP32, MQTT and OPC UA
+* 🎯 Interested in Software Architecture, AI and Manufacturing Technologies
+
+---
+
+## 🌎 Languages
+
+| Language        | Level        |
+| --------------- | ------------ |
+| 🇪🇸 Spanish    | Native       |
+| 🇧🇷 Portuguese | Fluent       |
+| 🇬🇧 English    | Intermediate |
+| 🇮🇹 Italian    | Intermediate |
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Backend
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge)
+
+### Industrial Automation
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+![OPC UA](https://img.shields.io/badge/OPC_UA-00599C?style=for-the-badge)
+
+---
+
+# 📂 Featured Projects
+
+## 📊 Industry 4.0 Dashboard
+
+Real-time monitoring platform using Java, Spring Boot, MQTT and WebSocket.
+
+## ⚙ OPC UA and PLC Integration
+
+Communication between industrial devices and monitoring applications.
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viter-diaz&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viter-diaz&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 Certifications
+
+* Digital Innovation One (DIO)
+* Software Development Bootcamps
+* Continuous Learning
+
+---
+
+# 🎯 Current Focus
+
+* .NET 9
+* Software Architecture
+* Spring Boot
+* Embedded Systems
+* Artificial Intelligence
+* Industry 4.0
+
+---
+
+<div align="center">
+
+### ⭐ "Continuous learning and building solutions for Industry 4.0."
+
+> **Keep learning, stay humble, and never assume you know everything. Growth never stops.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=viter-diaz\&color=blue)
+
+</div>
