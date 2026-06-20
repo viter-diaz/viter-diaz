@@ -30,7 +30,6 @@ Building industrial solutions with C#, Java, IoT and Embedded Systems.
 | 🇪🇸 Spanish    | Native       |
 | 🇧🇷 Portuguese | Fluent       |
 | 🇬🇧 English    | Intermediate |
-| 🇮🇹 Italian    | Intermediate |
 
 ---
 
@@ -76,10 +75,10 @@ Building industrial solutions with C#, Java, IoT and Embedded Systems.
 
 # 📂 Featured Projects
 
-## 📊 Industry Dashboard — Java Spring Boot
+## 📊 Industry Dashboard 
 Real-time industrial monitoring platform using Java, Spring Boot, MQTT, WebSocket and SQL databases.
 
-## 🖥️ C# .NET Mimaki Printer System
+## 🖥️ C# .NET App
 Desktop application for industrial printer communication, queue control, USB integration and production traceability.
 
 ## 🐍 Python & Django Projects
@@ -97,7 +96,7 @@ Full-stack web applications using React, Node.js, APIs, dashboards and real-time
 ## ▲ Next.js + Go Projects
 Modern web applications and backend services using Next.js, Go, REST APIs and industrial data integration.
 
-## 🔌 OPC UA and PLC Integration
+## 🔌 OPC UA/Snap7 and PLC Integration
 Communication between PLCs, OPC UA servers, industrial devices and monitoring applications.
 
 ## 📡 ESP32 / MQTT / Embedded Systems
