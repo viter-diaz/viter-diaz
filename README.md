@@ -18,7 +18,7 @@ Building industrial solutions with C#, Java, IoT and Embedded Systems.
 * 💻 Software Developer
 * 📚 Analysis and Systems Development Student
 * ⚡ Experience with C#, Java, Spring Boot and Embedded Systems
-* 📡 IoT Developer using ESP32, MQTT and OPC UA
+* 📡 IoT Developer using ESP32, MQTT and OPC
 * 🎯 Interested in Software Architecture, AI and Manufacturing Technologies
 
 ---
@@ -79,7 +79,7 @@ Building industrial solutions with C#, Java, IoT and Embedded Systems.
 Real-time industrial monitoring platform using Java, Spring Boot, MQTT, WebSocket and SQL databases.
 
 ## 🖥️ C# .NET App
-Desktop application for industrial printer communication, queue control, USB integration and production traceability.
+Desktop application for industrial printer communication, queue control, integration and production traceability.
 
 ## 🐍 Python & Django Projects
 Web applications and backend systems developed with Python, Django, REST APIs and database integration.
@@ -123,7 +123,7 @@ IoT solutions using ESP32, sensors, MQTT communication and embedded systems for 
 
 # 🎯 Current Focus
 
-* .NET 9
+* .NET
 * Software Architecture
 * Spring Boot
 * Embedded Systems
