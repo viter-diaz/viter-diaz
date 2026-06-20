@@ -44,6 +44,8 @@ Building industrial solutions with C#, Java, IoT and Embedded Systems.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 ### Backend
 
@@ -63,17 +65,43 @@ Building industrial solutions with C#, Java, IoT and Embedded Systems.
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
 ![OPC UA](https://img.shields.io/badge/OPC_UA-00599C?style=for-the-badge)
 
+### Frameworks & Tools
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ---
 
 # 📂 Featured Projects
 
-## 📊 Industry 4.0 Dashboard
+## 📊 Industry Dashboard — Java Spring Boot
+Real-time industrial monitoring platform using Java, Spring Boot, MQTT, WebSocket and SQL databases.
 
-Real-time monitoring platform using Java, Spring Boot, MQTT and WebSocket.
+## 🖥️ C# .NET Mimaki Printer System
+Desktop application for industrial printer communication, queue control, USB integration and production traceability.
 
-## ⚙ OPC UA and PLC Integration
+## 🐍 Python & Django Projects
+Web applications and backend systems developed with Python, Django, REST APIs and database integration.
 
-Communication between industrial devices and monitoring applications.
+## ⚙️ C / C++ Industrial APIs
+Low-level APIs and communication modules using C and C++ for industrial systems, device integration and automation.
+
+## 🧩 Qt Projects
+Desktop and industrial interface applications using Qt for visualization, control and machine communication.
+
+## ⚛️ React + Node.js Projects
+Full-stack web applications using React, Node.js, APIs, dashboards and real-time data visualization.
+
+## ▲ Next.js + Go Projects
+Modern web applications and backend services using Next.js, Go, REST APIs and industrial data integration.
+
+## 🔌 OPC UA and PLC Integration
+Communication between PLCs, OPC UA servers, industrial devices and monitoring applications.
+
+## 📡 ESP32 / MQTT / Embedded Systems
+IoT solutions using ESP32, sensors, MQTT communication and embedded systems for Industry 4.0.
 
 ---
 
