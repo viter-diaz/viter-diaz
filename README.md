@@ -33,8 +33,8 @@ Building software and automation solutions for modern manufacturing and Industry
 | Language | Level |
 |-----------|--------|
 | 🇪🇸 Spanish | Native |
-| 🇧🇷 Portuguese | Fluent |
-| 🇬🇧 English | Intermediate |
+| 🇧🇷 Portuguese | Intermediate |
+| 🇬🇧 English | Basic |
 | 🇮🇹 Italian | Intermediate |
 
 ---
