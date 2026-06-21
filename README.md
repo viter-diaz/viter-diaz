@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Viterbo Alejandro Diaz
+# Hi 👋, I'm Viterbo Diaz
 
 ### Manufacturing & Software Engineer | Industrial Automation | C# .NET • Java • IoT • Industry 4.0
 
