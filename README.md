@@ -130,9 +130,6 @@ Building software and automation solutions for modern manufacturing and Industry
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats-six-gold-s95i03zs0i.vercel.app/api?username=viter-diaz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em"
 src="https://github-readme-stats-six-gold-s95i03zs0i.vercel.app/api?username=viter-diaz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github"/>
 
 <img height="180em"
