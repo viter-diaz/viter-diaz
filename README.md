@@ -128,13 +128,12 @@ Building software and automation solutions for modern manufacturing and Industry
 # 📈 GitHub Statistics
 
 <div align="center">
+  
+<img height="180em"
+src="https://github-readme-stats-six-gold-s95i03zs0i.vercel.app/api?username=viter-diaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=viter-diaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=86400"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=viter-diaz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
+src="https://github-readme-stats-six-gold-s95i03zs0i.vercel.app/api/top-langs/?username=viter-diaz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 <br/>
 
 <img width="750"
