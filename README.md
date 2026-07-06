@@ -129,15 +129,17 @@ Building software and automation solutions for modern manufacturing and Industry
 
 <div align="center">
 
-<a href="https://github.com/viter-diaz">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=viter-diaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=viter-diaz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=viter-diaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=86400"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=viter-diaz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<br/>
 
 <img width="750"
-     src="https://streak-stats.demolab.com?user=viter-diaz&theme=tokyonight&hide_border=true"/>
+src="https://streak-stats.demolab.com?user=viter-diaz&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
